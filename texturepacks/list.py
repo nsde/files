@@ -5,5 +5,5 @@
   ["Faithful","1.8","32","Vanilla","7","faithful.team","https://static.planetminecraft.com/files/resource_media/texture/faithful-1-8-for-pvp.zip"],
   ["ZickZack v9","1.8","32","PvP","25","youtube.com/kompetenzGHG","http://download1523.mediafire.com/tpp79hxckg1g/x5o7zemzfqoeniw/ZickZackV9.zip"],
   ["ZickZack v8","1.8","32","PvP","13","youtube.com/kompetenzGHG","https://static.planetminecraft.com/files/resource_media/texture/1717/derpname10994100.zip"],
-  ["Jan ist cool","69","32","PvP","13","youtube.com/kompetenzGHG","https://static.planetminecraft.com/files/resource_media/texture/1717/derpname10994100.zip"]
+  ["Jan ist cool","69","32","PvP","xD","youtube.com/watch?v=dQw4w9WgXcQ","https://static.planetminecraft.com/files/resource_media/texture/1717/derpname10994100.zip"]
 ]
